@@ -390,6 +390,10 @@ footer{
 
 @media (max-width: 768px){
 
+    .circled{
+        display: none;
+    }
+
     .logo{
         margin: 0 auto;
     }
